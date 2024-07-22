@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(231, 231, 230);
+}
+#timecount{
+    border: 2px solid rgb(203, 200, 199);
+    background-color: rgb(225, 223, 221);
+    width: 50%;
+    height: 10%;
+    padding: 5%;
+    margin-top: 10%;
+    color: rgb(91, 90, 89);
+    font-size: xx-large;
+    box-shadow: 5px 5px 5px 5px rgb(189, 188, 188);
+}
+#myimg{
+    
+    align-items: center;
+    height: 90%;;
+    width: 500px;
+}
+
